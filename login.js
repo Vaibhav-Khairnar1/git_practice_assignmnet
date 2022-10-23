@@ -1,3 +1,3 @@
-var reg_email="Vaibhavkhairnar@gmail.com";
+var reg_email="Vaibhav@";
 
-var reg_pass="Vaibhav@#";
+var reg_pass="vaibhav";
